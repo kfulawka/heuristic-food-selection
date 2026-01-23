@@ -9,6 +9,8 @@ The project evaluates simple food-selection heuristics using large-scale nutrien
 ---
 
 ## Repository structure
+
+```text
 .
 ├── analyses/
 ├── data/
@@ -17,6 +19,7 @@ The project evaluates simple food-selection heuristics using large-scale nutrien
 ├── results/
 ├── .gitignore
 └── food_heuristics.Rproj
+```
 
 ---
 
