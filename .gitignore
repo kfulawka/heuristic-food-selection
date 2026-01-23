@@ -1,0 +1,21 @@
+############################################
+# macOS
+############################################
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+
+############################################
+# R
+############################################
+.Rhistory
+.Rapp.history
+.Ruserdata
+.Rproj.user/
+.Rprofile
