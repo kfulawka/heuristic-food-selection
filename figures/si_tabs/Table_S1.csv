@@ -1,0 +1,117 @@
+"category_code";"subcategory_code";"category_name";"subcategory_name";"n_prods";"n_choices"
+"B";"B1";"Bread and small bakery products";"wholemeal bread";40;780
+"B";"B2";"Bread and small bakery products";"brown bread";101;5050
+"B";"B3";"Bread and small bakery products";"white bread";39;741
+"B";"B4";"Bread and small bakery products";"wholemeal rolls";76;2850
+"B";"B5";"Bread and small bakery products";"rolls";86;3655
+"B";"B6";"Bread and small bakery products";"crispbread";147;10731
+"B";"B7";"Bread and small bakery products";"special breads and rolls";52;1326
+"B";"B8";"Bread and small bakery products";"bread products";14;91
+"C";"C1";"Cereals, grain and cereal products, rice";"grain";37;666
+"C";"C2";"Cereals, grain and cereal products, rice";"flour";37;666
+"C";"C3";"Cereals, grain and cereal products, rice";"special grain";33;528
+"C";"C4";"Cereals, grain and cereal products, rice";"special flour";21;210
+"C";"C5";"Cereals, grain and cereal products, rice";"cereal products";71;2485
+"C";"C6";"Cereals, grain and cereal products, rice";"convenience food (grain or flour)";3;3
+"C";"C9";"Cereals, grain and cereal products, rice";"convenience food based on rice";4;6
+"D";"D0";"Ready-made bakery products, cakes, pastries";"other and unspecified";41;820
+"D";"D1";"Ready-made bakery products, cakes, pastries";"fruit cakes";26;325
+"D";"D2";"Ready-made bakery products, cakes, pastries";"fruit tarts";18;153
+"D";"D3";"Ready-made bakery products, cakes, pastries";"tarts";64;2016
+"D";"D4";"Ready-made bakery products, cakes, pastries";"cakes";136;9180
+"D";"D56";"Ready-made bakery products, cakes, pastries";"cakes, tarts, pastries (special) ";75;2775
+"D";"D7";"Ready-made bakery products, cakes, pastries";"pastries, biscuits";128;8128
+"D";"D8";"Ready-made bakery products, cakes, pastries";"bakery products";14;91
+"E";"E1";"Eggs and egg products, pasta";"eggs";36;630
+"E";"E3";"Eggs and egg products, pasta";"convenience food (eggs)";1;0
+"E";"E45";"Eggs and egg products, pasta";"pastas";30;435
+"E";"E67";"Eggs and egg products, pasta";"special pastas";43;903
+"E";"E8";"Eggs and egg products, pasta";"pasta products";1;0
+"E";"E9";"Eggs and egg products, pasta";"convenience food (pasta)";4;6
+"F";"F0";"Fruit and fruit products (juices, jams, marmalades)";"other and unspecified";52;1326
+"F";"F1";"Fruit and fruit products (juices, jams, marmalades)";"pomaceous fruit";59;1711
+"F";"F2";"Fruit and fruit products (juices, jams, marmalades)";"stone fruit";124;7626
+"F";"F3";"Fruit and fruit products (juices, jams, marmalades)";"berries";159;12561
+"F";"F4";"Fruit and fruit products (juices, jams, marmalades)";"wild fruit";67;2211
+"F";"F5";"Fruit and fruit products (juices, jams, marmalades)";"tropical fruit";465;107880
+"F";"F6";"Fruit and fruit products (juices, jams, marmalades)";"citrus fruit";96;4560
+"F";"F89";"Fruit and fruit products (juices, jams, marmalades)";"fruit products, convenience";50;1225
+"G";"G0";"Vegetables and vegetable products";"other and unspecified";110;5995
+"G";"G1";"Vegetables and vegetable products";"salad vegetables";38;703
+"G";"G2";"Vegetables and vegetable products";"leafy vegetables";92;4186
+"G";"G3";"Vegetables and vegetable products";"cabbages";95;4465
+"G";"G4";"Vegetables and vegetable products";"stalk and leek vegetables";110;5995
+"G";"G5";"Vegetables and vegetable products";"fruit vegetables";152;11476
+"G";"G6";"Vegetables and vegetable products";"root and tuber vegetables";101;5050
+"G";"G7";"Vegetables and vegetable products";"leguminous vegetables";92;4186
+"G";"G8";"Vegetables and vegetable products";"vegetable products";38;703
+"G";"G9";"Vegetables and vegetable products";"convenience food based on veg";51;1275
+"H";"H09";"Legumes (mature), nuts, oil- and other seeds";"other and dishes";29;406
+"H";"H1";"Legumes (mature), nuts, oil- and other seeds";"nuts";64;2016
+"H";"H2";"Legumes (mature), nuts, oil- and other seeds";"other nuts";35;595
+"H";"H3";"Legumes (mature), nuts, oil- and other seeds";"kernels";13;78
+"H";"H4";"Legumes (mature), nuts, oil- and other seeds";"oilseeds";37;666
+"H";"H5";"Legumes (mature), nuts, oil- and other seeds";"oleaginous fruit";11;55
+"H";"H6";"Legumes (mature), nuts, oil- and other seeds";"sprouts, shoots";29;406
+"H";"H7";"Legumes (mature), nuts, oil- and other seeds";"legumes (mature)";84;3486
+"H";"H8";"Legumes (mature), nuts, oil- and other seeds";"nut and oilseed products";44;946
+"K";"K1";"Potatoes and potato products, starchy roots and tubers, mushrooms";"potatoes";16;120
+"K";"K2";"Potatoes and potato products, starchy roots and tubers, mushrooms";"potato products";18;153
+"K";"K359";"Potatoes and potato products, starchy roots and tubers, mushrooms";"potatoes, starchy, shrooms prod";13;78
+"K";"K4";"Potatoes and potato products, starchy roots and tubers, mushrooms";"starchy plants";31;465
+"K";"K7";"Potatoes and potato products, starchy roots and tubers, mushrooms";"cultivated, wild mushrooms";106;5565
+"K";"K8";"Potatoes and potato products, starchy roots and tubers, mushrooms";"mushroom products";15;105
+"M";"M0";"Milk, dairy products, cheese";"other and unspecified";14;91
+"M";"M1";"Milk, dairy products, cheese";"milk and sour milk";115;6555
+"M";"M2";"Milk, dairy products, cheese";"dairy products";284;40186
+"M";"M3";"Milk, dairy products, cheese";"hard cheese";47;1081
+"M";"M4";"Milk, dairy products, cheese";"semi-hard cheese";40;780
+"M";"M5";"Milk, dairy products, cheese";"semi-soft cheese";51;1275
+"M";"M6";"Milk, dairy products, cheese";"soft cheese";63;1953
+"M";"M7";"Milk, dairy products, cheese";"cream, sour milk, processed cheese";89;3916
+"M";"M8";"Milk, dairy products, cheese";"milk and cheese products";135;9045
+"S";"S0";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"other and unspecified";8;28
+"S";"S1";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"sugar, honey, sweet spreads";54;1431
+"S";"S2";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"ice cream";107;5671
+"S";"S3";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"sugar confectionery, candy";33;528
+"S";"S4";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"marzipan, liquorice, brittle, nougat";47;1081
+"S";"S5";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"chocolate";127;8001
+"S";"S68";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"chocolates, confectioneries";62;1891
+"S";"S7";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"cocoa, cocoa beverages";10;45
+"S";"S9";"Sweets, sugar, candy, chocolate, spread (sweet), ice cream";"convenience food based on sweets";1;0
+"T";"T0";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"other and unspecified";76;2850
+"T";"T1";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"herrings, mackerel, tuna";143;10153
+"T";"T2";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"gadoid fishes, cod, haddock, pollack";74;2701
+"T";"T3";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"flatfish (flounder, sole)";63;1953
+"T";"T4";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"salmonidae (salmon, trout)";123;7503
+"T";"T5";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"cyprinidae (carp)";30;435
+"T";"T6";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"percoid fish (perch)";64;2016
+"T";"T7";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"shellfish";102;5151
+"T";"T8";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"fish products";57;1596
+"T";"T9";"Deep-sea and fresh-water fishes, shellfish (crustaceans and mollusks)";"convenience food (fish)";18;153
+"U";"U0";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"other and unspecified";27;351
+"U";"U1";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"beef";133;8778
+"U";"U2";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"beef cuts";164;13366
+"U";"U3";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"veal";112;6216
+"U";"U4";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"veal cuts";152;11476
+"U";"U5";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"pork";133;8778
+"U";"U6";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"pork cuts";206;21115
+"U";"U7";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"mutton/lamb";64;2016
+"U";"U8";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"mutton/lamb cuts";75;2775
+"U";"U9";"Meat (excluding variety meats), Beef, veal, pork, mutton, lamb";"convenience food based on meat";33;528
+"V";"V0";"Game, poultry, game birds, variety meats/giblets";"other and unspecified";6;15
+"V";"V1";"Game, poultry, game birds, variety meats/giblets";"horse-, goat-, rabbit meat";16;120
+"V";"V2";"Game, poultry, game birds, variety meats/giblets";"game mammals";32;496
+"V";"V3";"Game, poultry, game birds, variety meats/giblets";"game birds";11;55
+"V";"V4";"Game, poultry, game birds, variety meats/giblets";"poultry";92;4186
+"V";"V5";"Game, poultry, game birds, variety meats/giblets";"variety meats of livestock";68;2278
+"V";"V6";"Game, poultry, game birds, variety meats/giblets";"variety meats (game, poultry)";13;78
+"V";"V89";"Game, poultry, game birds, variety meats/giblets";"game, poultry products";13;78
+"W";"W0";"Sausages and other meat products";"other and unspecified";4;6
+"W";"W1";"Sausages and other meat products";"dry sausages";71;2485
+"W";"W2";"Sausages and other meat products";"scalded sausages";112;6216
+"W";"W3";"Sausages and other meat products";"cooked sausages";70;2415
+"W";"W4";"Sausages and other meat products";"bacon, ham";19;171
+"W";"W56";"Sausages and other meat products";"meat products, cured";16;120
+"W";"W8";"Sausages and other meat products";"meat products";60;1770
+"W";"W9";"Sausages and other meat products";"convenience food (meats)";15;105

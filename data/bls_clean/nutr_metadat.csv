@@ -1,0 +1,137 @@
+nutr_c;nutr_name;unit;health_val
+GCAL;Energy (Kilocalories);kcal/100 g;-1
+GCALZB;Energy incl. Energy from Dietary Fiber (Kilocalories);kcal/100 g;
+ZW;Water;mg/100 g;
+ZE;Protein;mg/100 g;1
+ZF;Fat;mg/100 g;-1
+ZK;Carbohydratess (absorbable);mg/100 g;0
+ZB;Dietary Fiber;mg/100 g;1
+ZM;Minerals (Raw Ash);mg/100 g;1
+ZO;Organic Acids;mg/100 g;
+ZA;Alcohol (Ethanol);mg/100 g;
+VA;Vitamin A-Retinol Equivalent;μg/100 g;1
+VAR;Vitamin A-Retinol;μg/100 g;1
+VAC;Vitamin A-Beta-Carotene;μg/100 g;1
+VD;Vitamin D-Calciferols;μg/100 g;1
+VE;Vitamin E-Tocopherol Equivalent;μg/100 g;1
+VEAT;Vitamin E-Alpha-Tocopherol;μg/100 g;1
+VK;Vitamin K-Phylloquinone;μg/100 g;1
+VB1;Vitamin B1-Thiamine;μg/100 g;1
+VB2;Vitamin B2-Riboflavin;μg/100 g;1
+VB3;Vitamin B3-Niacin (Nicotinic Acid);μg/100 g;1
+VB3A;Vitamin B3-Niacin Equivalent;μg/100 g;1
+VB5;Vitamin B5-Pantothenic Acid;μg/100 g;1
+VB6;Vitamin B6-Pyridoxine;μg/100 g;1
+VB7;Vitamin B7-Biotin (Vitamin H);μg/100 g;1
+VB9G;Vitamin B9-Total Folic Acid;μg/100 g;1
+VB12;Vitamin B12-Cobalamin;μg/100 g;1
+VC;Vitamin C-Ascorbic Acid;μg/100 g;1
+VT;Vitamins;μg/100 g;1
+MNA;Sodium;mg/100 g;1
+MK;Potassium;mg/100 g;1
+MCA;Calcium;mg/100 g;1
+MMG;Magnesium;mg/100 g;1
+MP;Phosphorus;mg/100 g;1
+MS;Sulfur;mg/100 g;1
+MCL;Chloride;mg/100 g;1
+MFE;Iron;μg/100 g;1
+MZN;Zinc;μg/100 g;1
+MCU;Copper;μg/100 g;1
+MMN;Manganese;μg/100 g;1
+MF;Fluoride;μg/100 g;1
+MI;Iodide;μg/100 g;1
+KAM;Mannitol;mg/100 g;-1
+KAS;Sorbitol;mg/100 g;-1
+KAX;Xylitol;mg/100 g;-1
+KA;Total Sugar Alcohols;mg/100 g;-1
+KMT;Glucose (Dextrose);mg/100 g;-1
+KMF;Fructose (Fruit Sugar);mg/100 g;-1
+KMG;Galactose (Mucilage Sugar);mg/100 g;-1
+KM;Monosaccharides (1 M);mg/100 g;-1
+KDS;Sucrose (Table Sugar);mg/100 g;-1
+KDM;Maltose (Malt Sugar);mg/100 g;-1
+KDL;Lactose (Milk Sugar);mg/100 g;-1
+KD;Disaccharides (2 M);mg/100 g;-1
+KMD;Total Sugars;mg/100 g;-1
+KPOR;Oligosaccharides (Absorbable (3 - 9 M));mg/100 g;1
+KPON;Oligosaccharides (Non-Absorbable);mg/100 g;0
+KPG;Glycogen (Animal Starch);mg/100 g;1
+KPS;Starch;mg/100 g;1
+KP;Polysaccharides (> 9 M);mg/100 g;1
+KP_O;Complex Carbs;mg/100 g;1
+KBP;Poly-Pentosans;mg/100 g;1
+KBH;Poly-Hexosans;mg/100 g;1
+KBU;Poly-Urons Acids;mg/100 g;1
+KBC;Cellulose;mg/100 g;1
+KBL;Lignin;mg/100 g;1
+KBW;Water-Soluble Dietary Fiber;mg/100 g;1
+KBN;Water-Insoluble Dietary Fiber;mg/100 g;1
+EILE;Isoleucine;mg/100 g;1
+ELEU;Leucine;mg/100 g;1
+ELYS;Lysine;mg/100 g;1
+EMET;Methionine;mg/100 g;1
+ECYS;Cysteine;mg/100 g;1
+EPHE;Phenylalanine;mg/100 g;1
+ETYR;Tyrosine;mg/100 g;1
+ETHR;Threonine;mg/100 g;1
+ETRP;Tryptophan;mg/100 g;1
+EVAL;Valine;mg/100 g;1
+EARG;Arginine;mg/100 g;1
+EHIS;Histidine;mg/100 g;1
+EEA;Essential Amino Acids;mg/100 g;1
+EALA;Alanine;mg/100 g;0
+EASP;Aspartic Acid;mg/100 g;0
+EGLU;Glutamic Acid;mg/100 g;0
+EGLY;Glycine;mg/100 g;0
+EPRO;Proline;mg/100 g;0
+ESER;Serine;mg/100 g;0
+ENA;Non-Essential Amino Acids;mg/100 g;0
+EH;Uric Acid;mg/100 g;
+EP;Purine;mg/100 g;
+F40;Butyric Acid;mg/100 g;0
+F60;Caproic Acid;mg/100 g;0
+F80;Caprylic Acid;mg/100 g;0
+F100;Capric Acid;mg/100 g;0
+F120;Lauric Acid;mg/100 g;0
+F140;Myristic Acid;mg/100 g;0
+F150;Pentadecanoic Acid;mg/100 g;0
+F160;Palmitic Acid;mg/100 g;0
+F170;Heptadecanoic Acid;mg/100 g;0
+F180;Stearic Acid;mg/100 g;0
+F200;Arachidic Acid;mg/100 g;0
+F220;Behenic Acid;mg/100 g;0
+F240;Lignoceric Acid;mg/100 g;0
+FS;Saturated Fatty Acids;mg/100 g;-1
+F141;Tetradecenoic Acid;mg/100 g;0
+F151;Pentadecenoic Acid;mg/100 g;0
+F161;Palmitoleic Acid;mg/100 g;0
+F171;Heptadecenoic Acid;mg/100 g;0
+F181;Oleic Acid;mg/100 g;0
+F201;Eicosenoic Acid;mg/100 g;0
+F221;Erucic Acid;mg/100 g;0
+F241;Nervonic Acid;mg/100 g;0
+FU;Monounsaturated Fatty Acids;mg/100 g;1
+F162;Hexadecadienoic Acid;mg/100 g;0
+F164;Hexadecatetraenoic Acid;mg/100 g;0
+F182;Linoleic Acid;mg/100 g;0
+F183;Linolenic Acid;mg/100 g;0
+F184;Stearidonic Acid;mg/100 g;0
+F193;Nonadecatrienoic Acid;mg/100 g;0
+F202;Eicosadienoic Acid;mg/100 g;0
+F203;Eicosatrienoic Acid;mg/100 g;0
+F204;Arachidonic Acid;mg/100 g;0
+F205;Eicosapentaenoic Acid (EPA);mg/100 g;0
+F222;Docosadienoic Acid;mg/100 g;0
+F223;Docosatrienoic Acid;mg/100 g;0
+F224;Docosatetraenoic Acid;mg/100 g;0
+F225;Docosapentaenoic Acid (DPA);mg/100 g;0
+F226;Docosahexaenoic Acid (DHA);mg/100 g;0
+FP;Polyunsaturated Fatty Acids;mg/100 g;1
+FK;Short-Chain Fatty Acids;mg/100 g;0
+FM;Medium-Chain Fatty Acids;mg/100 g;0
+FL;Long-Chain Fatty Acids;mg/100 g;0
+FO3;Omega-3 Fatty Acids;mg/100 g;1
+FO6;Omega-6 Fatty Acids;mg/100 g;1
+FG;Glycerin and Lipoids;mg/100 g;0
+FC;Cholesterol;mg/100 g;0
+GMKO;Total Salt;mg/100 g;-1

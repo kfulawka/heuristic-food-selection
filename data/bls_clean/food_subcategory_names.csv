@@ -1,0 +1,212 @@
+C1;C12;Name
+B;B0;not used
+B;B1;wholemeal bread
+B;B2;brown bread
+B;B3;white bread
+B;B4;wholemeal rolls
+B;B5;rolls
+B;B6;crispbread
+B;B7;special breads and rolls
+B;B8;bread products
+B;B9;not used
+C;C0;not used
+C;C1;grain
+C;C2;flour
+C;C3;special grain
+C;C4;special flour
+C;C5;cereal products
+C;C6;convenience food (grain or flour)
+C;C7;not used
+C;C8;not used
+C;C9;convenience food based on rice
+D;D0;other and unspecified
+D;D1;fruit cakes
+D;D2;fruit tarts
+D;D3;tarts
+D;D4;cakes
+D;D5;cakes and tarts of special batter
+D;D6;pastries of special batter
+D;D7;pastries, biscuits
+D;D8;bakery products
+D;D9;not used
+E;E0;not used
+E;E1;eggs
+E;E2;not used
+E;E3;convenience food (eggs)
+E;E4;pasta
+E;E5;wholemeal pasta
+E;E6;special pasta
+E;E7;special wholemeal pasta
+E;E8;pasta products
+E;E9;convenience food (pasta)
+F;F0;other and unspecified
+F;F1;pomaceous fruit
+F;F2;stone fruit
+F;F3;berries
+F;F4;wild fruit
+F;F5;tropical fruit
+F;F6;citrus fruit
+F;F7;not used
+F;F8;fruit products
+F;F9;convenience food based on fruit
+G;G0;other and unspecified
+G;G1;salad vegetables
+G;G2;leafy vegetables
+G;G3;cabbages
+G;G4;stalk and leek vegetables
+G;G5;fruit vegetables
+G;G6;root and tuber vegetables
+G;G7;leguminous vegetables
+G;G8;vegetable products
+G;G9;convenience food based on veg
+H;H0;other and unspecified
+H;H1;nuts
+H;H2;other nuts
+H;H3;kernels
+H;H4;oilseeds
+H;H5;oleaginous fruit
+H;H6;sprouts, shoots
+H;H7;legumes (mature)
+H;H8;nut and oilseed products
+H;H9;dishes with legumes
+K;K0;not used
+K;K1;potatoes
+K;K2;potato products
+K;K3;convenience food (potatoes)
+K;K4;starchy plants
+K;K5;products of starchy plants
+K;K6;not used
+K;K7;cultivated, wild mushrooms
+K;K8;mushroom products
+K;K9;convenience food (mushrooms)
+M;M0;other and unspecified
+M;M1;milk and sour milk
+M;M2;dairy products
+M;M3;hard cheese
+M;M4;semi-hard cheese
+M;M5;semi-soft cheese
+M;M6;soft cheese
+M;M7;cream, sour milk, processed cheese
+M;M8;milk and cheese products
+M;M9;not used
+N;N0;other and unspecified
+N;N1;mineral water, tap water
+N;N2;fruit juice beverages
+N;N3;carbonated drinks
+N;N4;coffee
+N;N5;coffee substitutes
+N;N6;tea
+N;N7;fruit tea, herb tea
+N;N8;not used
+N;N9;not used
+P;P0;other and unspecified
+P;P1;beer (average 3.5% abv)
+P;P2;white wine, red wine, rosé (10% abv on average)
+P;P3;sparkling wine (up to 18% abv)
+P;P4;fortified wine (sweet or dry, 15–22% abv)
+P;P5;liqueur (about 32% abv)
+P;P6;distilled spirit (from wine)
+P;P7;spirits (at least 32–40% abv)
+P;P8;alcoholic products
+P;P9;cocktails
+Q;Q0;other and unspecified
+Q;Q1;vegetable oils, containing < 30% linoleic acid
+Q;Q2;vegetable oils, containing 30–60% linoleic acid
+Q;Q3;vegetable oils, containing > 60% linoleic acid
+Q;Q4;margarine
+Q;Q5;vegetable fats
+Q;Q6;butter
+Q;Q7;animal oils
+Q;Q8;animal fats
+Q;Q9;oil-based sauces, mayonnaise
+R;R0;other and unspecified
+R;R1;condiments
+R;R2;spices
+R;R3;essences, flavoring agents
+R;R4;food additives, raising-, gelling and thickening agents
+R;R5;organic acids
+R;R6;preservatives
+R;R7;vitamin preparations, mineral preparations
+R;R8;bouillon cubes, meat extract
+R;R9;ingredients, convenience food
+S;S0;other and unspecified
+S;S1;sugar, honey, sweet spreads
+S;S2;ice cream
+S;S3;sugar confectionery, candy
+S;S4;marzipan, liquorice, brittle, nougat
+S;S5;chocolate
+S;S6;chocolate products, chocolates
+S;S7;cocoa, cocoa beverages
+S;S8;confectioneries
+S;S9;convenience food based on sweets
+T;T0;other and unspecified
+T;T1;herrings, mackerel, tuna
+T;T2;gadoid fishes, cod, haddock, pollack
+T;T3;flatfish (flounder, sole)
+T;T4;salmonidae (salmon, trout)
+T;T5;cyprinidae (carp)
+T;T6;percoid fish (perch)
+T;T7;shellfish
+T;T8;fish products
+T;T9;convenience food (fish)
+U;U0;other and unspecified
+U;U1;beef
+U;U2;beef cuts
+U;U3;veal
+U;U4;veal cuts
+U;U5;pork
+U;U6;pork cuts
+U;U7;mutton/lamb
+U;U8;mutton/lamb cuts
+U;U9;convenience food based on meat
+V;V0;other and unspecified
+V;V1;horse-, goat-, rabbit meat
+V;V2;game mammals
+V;V3;game birds
+V;V4;poultry
+V;V5;variety meats of livestock
+V;V6;variety meats (game, poultry)
+V;V7;not used
+V;V8;meat products
+V;V9;convenience food
+W;W0;other and unspecified
+W;W1;dry sausages
+W;W2;scalded sausages
+W;W3;cooked sausages
+W;W4;bacon, ham
+W;W5;meat products
+W;W6;cured meat
+W;W7;not used
+W;W8;meat products
+W;W9;convenience food (meats)
+X;X0;sandwiches, toasts, breakfast cereals
+X;X1;salads, cooked
+X;X2;salads, raw
+X;X3;sauces
+X;X4;soups
+X;X5;vegetable dishes
+X;X6;potato dishes
+X;X7;noodle/pasta dishes
+X;X8;rice dishes
+X;X9;cereal dishes, cooked desserts, dairy dishes
+Y;Y0;small sausages, minced meat dishes
+Y;Y1;meat dishes of beef
+Y;Y2;meat dishes of veal
+Y;Y3;meat dishes of pork
+Y;Y4;meat dishes of mutton/lamb
+Y;Y5;meat dishes of game and poultry
+Y;Y6;fish dishes
+Y;Y7;egg, quark and cheese dishes
+Y;Y8;sweet dishes, desserts
+Y;Y9;fast food, ice cream
+D;D56;cakes, tarts, pastries (special) 
+E;E45;pastas
+E;E67;special pastas
+F;F89;fruit products, convenience
+H;H09;other and dishes
+K;K359;potatoes, starchy, shrooms prod
+Q;Q123;veggie oils
+Q;Q78;animal oils, fats
+S;S68;chocolates, confectioneries
+V;V89;game, poultry products
+W;W56;meat products, cured
